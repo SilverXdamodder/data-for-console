@@ -10,11 +10,6 @@
       "user-id": "707651F6F1AD29F8",
       "discord-id": "810014649490997311"
     },
-     {
-      "name": "Obj",
-      "user-id": "69B87228EC7FF7F2",
-      "discord-id": "1328968895838818388"
-    },
     {
      "name": "1x1x1x1VR121",
       "user-id": "86AF3B9F3A525AA8",
@@ -26,22 +21,10 @@
       "discord-id": "810014649490997311"
     },
      {
-     "name": "Industry",
-      "user-id": "4605B2A0900028E1",
-      "discord-id": "1340165954981724255"
-    },
-  
-    {
-     "name": "Lawson",
-      "user-id": "E9E16761594AC84B",
-      "discord-id": "1199930025009483776"
-    },
-     {
      "name": "1x1x1x1VR123",
       "user-id": "4F37AE2B357CCBB9",
       "discord-id": "810014649490997311"
     },
-    
     {
      "name": "OMALLEYGT",
       "user-id": "E4C1C960B316D71",
@@ -101,16 +84,6 @@
       "user-id": "141F48363B70A53E",
       "discord-id": "1520464068740255949"
     },
-    {
-      "name": "goldentrophy",
-      "user-id": "F641264BC1E4B9C9",
-      "discord-id": "1505252342566490363"
-    },
-    {
-      "name": "goldentrophy",
-      "user-id": "2B3F91D308F7100F",
-      "discord-id": "1199930025009483776"
-    },
      
   ],
   "super-admins": [
@@ -154,7 +127,7 @@
     "Fling Shotgun"
     
   ],
-  "poll": "I Fixed menu api yippea",
-  "option-a": "W in chat",
-  "option-b": "Nice"
+  "poll": "Welcome to the menu/mod",
+  "option-a": "Hi",
+  "option-b": "Fuck You"
 }
