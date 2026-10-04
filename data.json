@@ -1,7 +1,7 @@
 {
-  "menu-version": "10.0.2",
-  "min-version": "4.5.1",
-  "min-console-version": "2.8.0",
+  "menu-version": "10.0",
+  "min-version": "1.0.0",
+  "min-console-version": "1.0.0",
   "discord-invite": "https://discord.gg/DskHrHS3vR",
   "motd": "<color=grey></color><color=yellow>Welcome to Silver's Mod Base i am the owner of explorer menu i collabed with 1x1x1x1 on Seralyth Remake to do crazy events and shit get ready...</color><color=grey></color>>                                                                                                                                                                         You are using build {0}. This menu was created by Silver's Console Mods. This Mod is only found in Silver's Discord, if you paid for this you have been scammed. <color=red>Silver's Console Mods is not responsible for any bans using this mod.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by SilverX And 1x1x1x1VR12 {only silver made the mod lol}.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
   "admins": [
