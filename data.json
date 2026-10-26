@@ -1,93 +1,67 @@
 {
-  "menu-version": "10.0",
-  "min-version": "1.0.0",
+  "discord-invite": "https://discord.gg/seralyth",
+  "motd": "Welcome to Poison Menu! discord.gg/seralyth https://ko-fi.com/mullvad for the tracker!",
+  "min-version": "5.1.7",
+  "menu-version": "5.1.7",
   "min-console-version": "1.0.0",
-  "discord-invite": "https://discord.gg/DskHrHS3vR",
-  "motd": "<color=grey></color><color=yellow>Welcome to Silver's Mod Base i am the owner of explorer menu i collabed with 1x1x1x1 on Seralyth Remake to do crazy events and shit get ready...</color><color=grey></color>>                                                                                                                                                                         You are using build {0}. This menu was created by Silver's Console Mods. This Mod is only found in Silver's Discord, if you paid for this you have been scammed. <color=red>Silver's Console Mods is not responsible for any bans using this mod.</color> If you get banned while using this, it's your responsibility.\n\nCurrent status: <b>Fully functional, undetected</b>\nMade with love by SilverX And 1x1x1x1VR12 {only silver made the mod lol}.\n\n<alpha=128>{2} {0} {3}<alpha=255>",
   "admins": [
-     {
-      "name": "VR12",
-      "user-id": "707651F6F1AD29F8",
-      "discord-id": "810014649490997311"
+    {
+      "name": "SNAKE",
+      "user-id": "E7BDCDE96CA19C56"
     },
     {
-     "name": "1x1x1x1VR121",
-      "user-id": "86AF3B9F3A525AA8",
-      "discord-id": "810014649490997311"
+      "name": "CHEEMZ",
+      "user-id": "BEEFE26BBBC9520B"
     },
     {
-     "name": "1x1x1x1VR1212",
-      "user-id": "B3B46AA3FC3BAEB",
-      "discord-id": "810014649490997311"
+      "name": "INOXI",
+      "user-id": "F7A8BE00DE85C3A2"
     },
     {
-     "name": "1x1x1x1VR123",
-      "user-id": "4F37AE2B357CCBB9",
-      "discord-id": "810014649490997311"
+      "name": "KORMAKUR",
+      "user-id": "7A08AEE19B754D6B"
     },
     {
-     "name": "OMALLEYGT",
-      "user-id": "E4C1C960B316D71",
-      "discord-id": "1283177585760538627"
+      "name": "SNAKE",
+      "user-id": "B5080821FD7369D4"
     },
     {
-     "name": "CubePanel",
-      "user-id": "B7F0892F6816B2DF",
-      "discord-id": "1490766111086481478"
+      "name": "ZLOTHY",
+      "user-id": "FF912EF4590C7E35"
     },
     {
-     "name": "DeadCourt",
-      "user-id": "6F35E98ADCE70569",
-      "discord-id": "1468054500475670659"
+      "name": "TECCAONDC",
+      "user-id": "BD926D6642A42300"
     },
     {
-      "name": "FarmingKing",
-      "user-id": "2A2E334D25358BAB",
-      "discord-id": "1411776191379280046"
+      "name": "311503550951981056 SNAKE",
+      "user-id": "REMOVE"
     },
     {
-      "name": "Gore",
-      "user-id": "30CABA3A8C73DCBB",
-      "discord-id": "1049346303798284308"
+      "name": "SNAKE",
+      "user-id": "126286DB700009C4"
     },
-     {
-      "name": "SilverX",
-      "user-id": "45A4A5DB985D4DA4",
-      "discord-id": "1488271025035542630"
+    {
+      "name": "BLACKHAT",
+      "user-id": "7446E754FFEBA04B"
     },
-     
+    {
+      "name": "SILVERX",
+      "user-id": "45A4A5DB985D4DA4"
+    }
   ],
   "super-admins": [
-    "SilverX",
-    "VR12",
-    "1x1x1x1VR121",
-    "1x1x1x1VR1212",
-    "1x1x1x1VR123",
-    "FarmingKing"
-    
-  
-   
-    
-  ],
-  "beta-users": [
+    "E7BDCDE96CA19C56",
     "45A4A5DB985D4DA4"
   ],
-  "beta": false,
-  "april_fools": {
-    "sex": false
-  },
+  "owners": [],
   "patreon": [],
-  "detected-mods": [
-    "Kick Gun",
-    "Kick All",
-    "Lag Server",
-    "Crash Server",
-    "Freeze Server",
-    "Za Warudo <color=grey>[</color><color=green>T</color><color=grey>]</color>",
-    "Fling Shotgun"
-    
-  ],
-  "poll": "Welcome to the menu/mod",
-  "option-a": "Hi",
-  "option-b": "Fuck You"
-}
+  "poll": "do you like seals or bunnies more",
+  "option-a": "seals",
+  "option-b": "bunnies",
+  "detected-mods": [],
+  "april_fools": {
+    "sex": false,
+    "annoying": false
+  }
+}a
